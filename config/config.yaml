@@ -99,8 +99,6 @@ weight:
 platforms:
   - id: "bilibili-hot-search"
     name: "bilibili 热搜"
-  - id: "ifeng"
-    name: "凤凰网"
   - id: "weibo"
     name: "微博"
   - id: "douyin"
